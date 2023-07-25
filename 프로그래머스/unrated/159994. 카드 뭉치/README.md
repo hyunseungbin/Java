@@ -1,10 +1,10 @@
 # [unrated] 카드 뭉치 - 159994 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/159994) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=java) 
 
 ### 성능 요약
 
-메모리: 9.95 MB, 시간: 0.01 ms
+메모리: 74.2 MB, 시간: 0.10 ms
 
 ### 구분
 
